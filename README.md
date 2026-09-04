@@ -1,6 +1,3 @@
-# ⚡ Energy Management in Microgrid – Grid Connected Mode
-
-## 📌 Project Overview
 
 This project focuses on the development and simulation of an **Energy Management System (EMS) for a Microgrid operating in Grid-Connected Mode**.
 
